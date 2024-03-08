@@ -1,5 +1,5 @@
 {
-    "name": "clcwebsiteservices/laravel-perms-mongodb",
+    "name": "clcwebsiteservices/laravel-permission-mongodb",
     "description": "Permission handling for Laravel 8.0 and up",
     "license": "MIT",
     "keywords": [
